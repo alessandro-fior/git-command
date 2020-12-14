@@ -1,14 +1,18 @@
 # git-command
 elenco comandi git
 
-git config --global user.email "la-propria-email"  #può essere anche quella di un altro account github 
-git config --global user.name "nome-utente" #nome vostro identicativo
-git config --global push.default simple
-
-git add -A
-git add * -f
-
-git commit -m "messaggio identificativo del commit"
-git commit -a -m "messaggio identificativo del commit"
-git push
-git pull
+</br>
+git config --global user.email "alessandro.fior"  #può essere anche quella di un altro account github </br>
+git config --global user.name "alessandro-fior" #nome vostro identicativo</br>
+git config --global push.default simple</br>
+</br>
+git add -A</br>
+git add * -f</br>
+</br>
+git commit -m "messaggio identificativo del commit"</br>
+git commit -a -m "messaggio identificativo del commit"</br>
+git push</br>
+git pull</br>
+</br>
+sudo git push -u origin main
+</br>
