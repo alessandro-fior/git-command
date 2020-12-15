@@ -16,3 +16,6 @@ git pull</br>
 </br>
 sudo git push -u origin main
 </br>
+
+https://www.datree.io/resources/git-error-fatal-remote-origin-already-exists</br>
+git remote remove origin</br>
